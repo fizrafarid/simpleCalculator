@@ -30,3 +30,5 @@ else if (answer.operator === "Division"){
 else{
     console.log("Please enter a valid operator");
 }
+
+console.log("Program ended");
