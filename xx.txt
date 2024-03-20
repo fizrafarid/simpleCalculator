@@ -1,0 +1,4 @@
+npm init :creates package.json
+tsc --init : creates tsconfig.json
+npm i inquirer/npm install inquirer : installs the inquirer pkg
+init means initialisation
